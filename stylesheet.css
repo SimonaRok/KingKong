@@ -1,0 +1,19 @@
+body {
+	background-color: #FFFF99;
+}
+
+p {
+	font-family: Arial;
+	font-size: 1em;
+	color: #181818;
+	font-weight: bold;
+}
+
+li {
+	font-family: Arial;
+	font-size: 1em;
+}
+img {
+	vertical-align: center;
+}
+
